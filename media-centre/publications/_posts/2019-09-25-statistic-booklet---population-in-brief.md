@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Population In Brief"
-date:   2020-09-24
+title: 'Population In Brief'
+date: 2020-09-24T00:00:00.000Z
 permalink: /media-centre/publications/population-in-brief
+
 ---
+
 
 
 Population in Brief is an annual publication that provides key updates and trends on Singapore's population landscape.
